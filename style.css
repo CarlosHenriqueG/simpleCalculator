@@ -12,20 +12,15 @@ body{
   align-items: center;
   height: 100vh;
   width: 100vw;
-
-  background:url(assets/pexels-karolina-grabowska-6256066.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   backdrop-filter: blur(2px);
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
   
   
 
 }
 
 div {
-  background: rgba(255, 255, 255, 0.10);
-  box-shadow: 0px 8px 4px 0px rgba(0, 0, 0, 0.05), 0px 1px 1px 0px rgba(53, 53, 53, 0.8), 0px -1px 1px 0px rgba(255, 255, 255, 0.00);
-  backdrop-filter: blur(16px);
+  background: #121212;
   border-radius: 30px;
   width: 370px;
   height: 560px;
@@ -66,7 +61,7 @@ button:active {
 }
 
 .black-button {
-  background: #28292c;
+  background: #777981;
 }
 
 .blue-button {
