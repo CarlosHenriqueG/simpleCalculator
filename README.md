@@ -1,3 +1,3 @@
-# simpleCalculator
+# Calculadora
 
-Simple calculator to improve logic programming
+Calculadora simples para melhorar a programação lógica
